@@ -2,7 +2,7 @@
 
 ## install
 ```sh
-npm install michaelrhodes/ssim
+npm install michaelrhodes/ssim#1.0.0
 ```
 
 ## use
